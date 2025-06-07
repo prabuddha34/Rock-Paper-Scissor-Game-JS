@@ -1,0 +1,32 @@
+#myheading{
+    color:black;
+    justify-content: center;
+    text-align: center;
+    font-family: monospace;
+}
+
+.button-container {
+  display: flex;               
+  justify-content: center;     
+  align-items: center;         
+    height: 50vh;              
+  gap: 2rem; 
+}
+
+.button {
+  font-size: 3.8rem;
+
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color: #4CAF50;
+  color: white;
+}
+#output{
+
+  color:black;
+    justify-content: center;
+    text-align: center;
+    font-family: monospace;
+    font-weight: bold;
+}
